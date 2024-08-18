@@ -1,0 +1,80 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.hero-page {
+  background: linear-gradient(120deg, var(--blueGradient), var(--pinkGradient));
+}
+
+.people-affected {
+  background: linear-gradient(45deg, var(--blueGradient), var(--pinkGradient));
+}
+
+.incluision-power {
+  background: linear-gradient(120deg, var(--blueGradient), var(--pinkGradient));
+}
+
+.solution {
+  background: linear-gradient(45deg, var(--blueGradient), var(--pinkGradient));
+}
+
+.solution-part2 {
+  background: linear-gradient(120deg, var(--blueGradient), var(--pinkGradient));
+}
+
+.market {
+  background: linear-gradient(45deg, var(--blueGradient), var(--pinkGradient));
+}
+
+.hero-page img {
+  height: 600px;
+}
+
+.hero-page .logo .subtitle p {
+  background: linear-gradient(rgba(45, 44, 45, 0.15), rgba(202, 214, 252, 0.01));
+  background-clip: text;
+  -webkit-background-clip: text; /* Alguns navegadores precisam do prefixo */
+
+  /* Terceiro passo: apagar o texto, deixando apenas o fundo atrás dele */
+  -webkit-text-fill-color: transparent;
+}
+
+.hero-page .container-info {
+  margin-top: -170px;
+}
+
+.incluision-power .general-data {
+  background: linear-gradient(120deg, #F8A4DC, #F8B1AF);
+}
+
+.incluision-power .general-data .data .general-data-info{
+  background: rgba(255, 255, 255, 0.25 );
+  box-shadow: 2px 2px 16px 0 rgba(58, 58, 58, 0.05);
+  backdrop-filter: blur(6.5px);
+  -webkit-backdrop-filter: blur(6.5px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18 );
+}
+
+.incluision-power .language-data img {
+  height: 300px;
+  width: auto;
+  position: relative;
+}
+
+.incluision-power .language-data {
+  margin-top: -75px;
+}
+
+.solution .economy img {
+  height: 300px;
+  width: 300px;
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+
+.market .cards-info .card {
+  background: linear-gradient(120deg, #F8A4DC, #F8B1AF);
+}
