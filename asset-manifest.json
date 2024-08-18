@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/VisualVoice-Site/static/css/main.b90e69b5.css",
+    "main.js": "/VisualVoice-Site/static/js/main.0d4f62da.js",
+    "static/media/heroHand.png": "/VisualVoice-Site/static/media/heroHand.5996cfc600279359cbc4.png",
+    "static/media/brainIcon.png": "/VisualVoice-Site/static/media/brainIcon.a956c705c04154101bc1.png",
+    "static/media/notebookIcon.png": "/VisualVoice-Site/static/media/notebookIcon.3c5bce22fc5e83adf406.png",
+    "static/media/handCoin.png": "/VisualVoice-Site/static/media/handCoin.e1209b8b0620c0ef6e84.png",
+    "static/media/booksImage.png": "/VisualVoice-Site/static/media/booksImage.f4076e1bb820fe5cb801.png",
+    "static/media/heartIcon.png": "/VisualVoice-Site/static/media/heartIcon.807189f05bde8685a6a7.png",
+    "index.html": "/VisualVoice-Site/index.html",
+    "main.b90e69b5.css.map": "/VisualVoice-Site/static/css/main.b90e69b5.css.map",
+    "main.0d4f62da.js.map": "/VisualVoice-Site/static/js/main.0d4f62da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b90e69b5.css",
+    "static/js/main.0d4f62da.js"
+  ]
+}
