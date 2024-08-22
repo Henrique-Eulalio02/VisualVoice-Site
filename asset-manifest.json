@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/VisualVoice-Site/static/css/main.c11bb76f.css",
-    "main.js": "/VisualVoice-Site/static/js/main.1c9f0432.js",
+    "main.css": "/VisualVoice-Site/static/css/main.d29b8e6e.css",
+    "main.js": "/VisualVoice-Site/static/js/main.46fdd7e8.js",
+    "static/media/video.mp4": "/VisualVoice-Site/static/media/video.d469ed28a454e750493f.mp4",
     "static/media/heroHand.png": "/VisualVoice-Site/static/media/heroHand.5996cfc600279359cbc4.png",
     "static/media/brainIcon.png": "/VisualVoice-Site/static/media/brainIcon.a956c705c04154101bc1.png",
     "static/media/news1.png": "/VisualVoice-Site/static/media/news1.855982478c6c3d7bcebe.png",
@@ -14,11 +15,11 @@
     "static/media/heartIcon.png": "/VisualVoice-Site/static/media/heartIcon.807189f05bde8685a6a7.png",
     "static/media/trophyIcon.png": "/VisualVoice-Site/static/media/trophyIcon.30ea7b447f20c1c03526.png",
     "index.html": "/VisualVoice-Site/index.html",
-    "main.c11bb76f.css.map": "/VisualVoice-Site/static/css/main.c11bb76f.css.map",
-    "main.1c9f0432.js.map": "/VisualVoice-Site/static/js/main.1c9f0432.js.map"
+    "main.d29b8e6e.css.map": "/VisualVoice-Site/static/css/main.d29b8e6e.css.map",
+    "main.46fdd7e8.js.map": "/VisualVoice-Site/static/js/main.46fdd7e8.js.map"
   },
   "entrypoints": [
-    "static/css/main.c11bb76f.css",
-    "static/js/main.1c9f0432.js"
+    "static/css/main.d29b8e6e.css",
+    "static/js/main.46fdd7e8.js"
   ]
 }
